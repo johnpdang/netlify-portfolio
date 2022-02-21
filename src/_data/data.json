@@ -1,3 +1,6 @@
 {
-    "tagline": "My awesome website"
+    "tagline": "My awesome website",
+    "footer": {
+        "title": "Footer Title"
+    }
 }
