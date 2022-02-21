@@ -31,3 +31,11 @@ Use this as the "Publish command" if needed by hosting such as Netlify.
 **Explore advanced setup of custom data** through my [tutorial on building a community site](https://css-tricks.com/a-community-driven-site-with-eleventy-building-the-site/)
 
 **For a more full-featured starter** check out my [11ty Netlify Jumpstart](https://11ty-netlify-jumpstart.netlify.app/) (also works for hosts other than Netlify).
+
+
+todo:
+nav partial
+hero
+about
+recent work
+footer
