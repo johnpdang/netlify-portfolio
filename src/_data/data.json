@@ -1,6 +1,26 @@
 {
-    "tagline": "My awesome website",
+    "hero": {
+        "h1": "Hello!",
+        "tagline": "My name's John, I'm a front end Developer based in San Diego, California.",
+        "cta": "View my Portfolio"
+    },
+    "about": {
+        "header": "More About Me",
+        "description": "With over 10 years of work experience in the marketing and advertising industry and a Bachelors of Science degree in Graphic Design. I have extensive experience in web design and development and enjoy working on detailed projects. I'm highly conceptual with a good sense for practicality. I understand the industry is always evolving so I am constantly striving to learn new skills and technoligies to create straightforward and enjoyable user experiences.",
+        "cta": "Let's work on some projects together!"
+    },
+    "work": {
+        "h1": "Recent Work"
+    },
     "footer": {
-        "title": "Footer Title"
+        "h1": "Let's Work Together",
+        "description": "If you'd like to get in touch, please feel free to reach out by email or fill out the form.",
+        "email": "hello@dangjohn.com",
+        "social": {
+            "linkedin":"https://www.linkedin.com/",
+            "instagram":"https://www.instagram.com/",
+            "dribbble":"https://dribbble.com/",
+            "github":"https://github.com/"
+        }
     }
 }

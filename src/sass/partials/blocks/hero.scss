@@ -1,0 +1,19 @@
+.hero {
+  padding: 25px;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  p {
+    line-height: 1.4;
+    margin-bottom: 45px;
+  }
+  a {
+    background-color: #2060a0;
+    padding: 15px 25px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+}

@@ -1,7 +1,12 @@
 ---
 layout: base.njk
-title: Hello World
+title: John Dang | Front end Developer based in San Diego, California.
 ---
 
-<h2>{{data.tagline}}</h2>
-
+<section id="about" class="about">
+    <div class="container">
+        <h2>{{data.about.header}}</h2>
+        <p>{{data.about.description}}</p>
+        <a href="#contact">{{data.about.cta}}</a>
+    </div>
+</section>
